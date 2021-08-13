@@ -1,10 +1,3 @@
-//
-//  DispathQueue+Once.swift
-//  LeaksSupervise
-//
-//  Created by 林文俊 on 2018/12/6.
-//  Copyright © 2018 林文俊. All rights reserved.
-//
 
 import Foundation
 
